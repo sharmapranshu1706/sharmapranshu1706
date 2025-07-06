@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sharmapranshu1706
-- 👀 I’m interested in Android Applicatiob Develop
-- 🌱 I’m currently learning Web Develping
+- 👋 Hi, I’m Pranshu Sharma
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Linked in 
+- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/pranshu-sharma-3421251b8/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
