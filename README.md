@@ -17,7 +17,7 @@ public class Pranshu {
     String location    = "Agra, India 🇮🇳";
     String[] current   = {"DSA grind", "Spring Boot APIs", "Exploring Spring AI"};
     String[] goals     = {"SDE @ Product Company", "Startup Engineering"};
-    String contact     = "yadavxprakhar@gmail.com";
+    String contact     = "sharma.pranshu1706@gmail.com";
 
     String lifePhilosophy() {
         return "\"The best code is the code that solves real problems — simply.\"";
