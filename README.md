@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Pranshu 👋
-### MCA · Java Full Stack Developer · Agra-U.P, India
+### MCA · Java Full Stack Developer · Agra, India
 
 </div>
 
